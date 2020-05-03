@@ -1,0 +1,8 @@
+Ask the user for the university name
+Ask the user to enter the costs per semester of all items needed for the university
+FUll-time cost
+Part-time cost
+Half-time cost 
+store the answers in the variable boxes
+Divide and multiply all the costs for each instance
+Display the results to the console 
